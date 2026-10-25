@@ -9,9 +9,7 @@ README.md       índice das receitas (resumo)
 AGENTS.md       este arquivo
 guia/
   creami.md       regras da máquina, princípios e preparo padrão
-  ingredientes.md tabela nutricional de referência, conversões, marcas, ingredientes técnicos
-referencias/
-  README.md       registro das conferências (só cresce) e padrão de nomes
+  ingredientes.md tabela nutricional de referência, conversões, marcas e rótulos conferidos, ingredientes técnicos
   rotulos/        fotos dos rótulos conferidos
 receitas/
   <receita>.md            uma receita por arquivo
@@ -70,12 +68,22 @@ Use uma receita existente como modelo ao criar uma nova.
 
 Por exemplo, ao conferir o rótulo do whey:
 
-1. Salve a foto do rótulo em `referencias/rotulos/`, seguindo o padrão de nomes de [referencias/README.md](referencias/README.md).
-2. Acrescente uma linha no fim da tabela **Conferências** de `referencias/README.md`, com a data, o resultado e o link para a foto. Não apague nem reescreva linhas antigas.
-3. Atualize a linha em `guia/ingredientes.md`, com a origem `Rótulo`.
-4. Encontre todas as receitas que usam o ingrediente.
-5. Recalcule o detalhamento, o total e a **Nutrição por pote** de cada uma.
-6. Atualize a citação de itens não conferidos e o índice do `README.md`.
+1. Salve a foto do rótulo em `guia/rotulos/`, seguindo o padrão de nomes abaixo. Não apague fotos antigas sem o usuário pedir.
+2. Em `guia/ingredientes.md`, atualize a linha da **tabela nutricional de referência** (com a origem `Rótulo`) e a linha do produto em **Ingredientes de marca** (data da conferência e link para a foto).
+3. Encontre todas as receitas que usam o ingrediente.
+4. Recalcule o detalhamento, o total e a **Nutrição por pote** de cada uma.
+5. Atualize a citação de itens não conferidos e o índice do `README.md`.
+
+### Nomes das fotos de rótulos
+
+```
+guia/rotulos/<produto>-<marca>[-<variante>]--<AAAA-MM-DD>.<extensão>
+```
+
+- Produto, marca e variante em `kebab-case`, sem acento, do mais geral para o mais específico: `pessego-em-calda-zero-schramm`, `whey-growth-sorvete-de-creme`.
+- `--` separa o produto da data da conferência. A data evita colisão quando o mesmo produto for conferido de novo.
+- Mais de uma foto do mesmo produto no mesmo dia: acrescente `-2`, `-3` depois da data.
+- Mantenha a extensão original da imagem.
 
 Mudança de valor de referência **não muda a versão** da receita, porque a fórmula é a mesma.
 

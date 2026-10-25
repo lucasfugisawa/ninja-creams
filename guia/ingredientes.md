@@ -29,7 +29,7 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 
 **Origem:**
 
-- **Rótulo:** conferido no rótulo do produto usado (data e foto em [referencias/](../referencias/README.md)).
+- **Rótulo:** conferido no rótulo do produto usado (data e foto em [Ingredientes de marca](#ingredientes-de-marca)).
 - **Tabela:** valor típico de tabelas de composição (TACO, USDA) ou de rótulos genéricos. Não foi conferido no produto usado.
 - **Estimado:** inferido de produtos parecidos ou de informação parcial.
 
@@ -61,14 +61,14 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 
 ## Ingredientes de marca
 
-| Ingrediente | Produto | Observação |
-|---|---|---|
-| Whey | Growth Supplements, sabor **Sorvete de Creme** | Rótulo conferido |
-| Figo em calda | Tozzi, lata de 850 g (400 g drenado) | Rótulo conferido |
-| Pêssego em calda zero adição de açúcar | Schramm | Rótulo conferido (fruta + calda) |
-| Cacau solúvel 100% | Dr. Oetker | Rótulo conferido; ingrediente único: cacau solúvel |
-| Goma xantana | 80 mesh, 100% pura | — |
-| Eritritol | Della Terra, 100% puro | — |
+| Ingrediente | Produto | Conferido em | Rótulo |
+|---|---|:---:|:---:|
+| Whey | Growth Supplements, sabor **Sorvete de Creme** (tabela do site da Growth) | 2026-10-25 | [foto](rotulos/whey-growth-sorvete-de-creme--2026-10-25.webp) |
+| Figo em calda | Tozzi, lata de 850 g (400 g drenado) | 2026-10-25 | [foto](rotulos/figo-em-calda-tozzi--2026-10-25.webp) |
+| Pêssego em calda zero adição de açúcar | Schramm (rótulo da fruta com a calda) | 2026-10-25 | [foto](rotulos/pessego-em-calda-zero-schramm--2026-10-25.jpg) |
+| Cacau solúvel 100% | Dr. Oetker (ingrediente único: cacau solúvel) | 2026-10-25 | [foto](rotulos/cacau-soluvel-dr-oetker--2026-10-25.jpg) |
+| Goma xantana | 80 mesh, 100% pura | — | — |
+| Eritritol | Della Terra, 100% puro | — | — |
 
 ## Ingredientes técnicos
 

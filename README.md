@@ -20,8 +20,7 @@ Carboidratos sem as fibras, como nos rótulos brasileiros. ↳ indica uma varia�
 ## Guias
 
 - [Guia da Ninja CREAMi](guia/creami.md): terminologia, programas, linha MAX, princípios e preparo padrão.
-- [Guia de ingredientes](guia/ingredientes.md): tabela nutricional de referência, conversões de medidas, marcas e ingredientes técnicos.
-- [Referências](referencias/README.md): registro das conferências (rótulos e medidas), com as fotos dos rótulos.
+- [Guia de ingredientes](guia/ingredientes.md): tabela nutricional de referência, conversões de medidas, marcas com os rótulos conferidos e ingredientes técnicos.
 
 ## Para agentes
 
