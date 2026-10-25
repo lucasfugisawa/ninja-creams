@@ -4,13 +4,13 @@
 
 | Versão | Status | Programa | Variação de |
 |:---:|:---:|:---:|:---:|
-| v1 | Não testada | `SORVETE LIGHT` | — |
+| v2 | Não testada | `SORVETE LIGHT` | — |
 
 ## Nutrição por pote
 
 | Calorias | Proteína | Carboidratos | Gorduras | Fibras | Volume |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **~480 kcal** | **~57 g** | ~51 g | ~5 g | ~3 g | ~405 ml |
+| **~500 kcal** | **~59 g** | ~54 g | ~5 g | ~3 g | ~465 ml |
 
 > Estimativa, com margem de cerca de 5%. Whey conferido no rótulo; manga, leite e leite em pó com valores de tabela. Volume da base estimado.
 
@@ -19,7 +19,7 @@
 | Quantidade | Ingrediente |
 |---:|---|
 | 150 g | Manga bem madura, de preferência Palmer (tem pouca fibra) |
-| 200 ml | Leite desnatado |
+| 260 ml | Leite desnatado |
 | 2 colheres de sopa | Leite em pó desnatado (~13 g) |
 | 60 g | Whey Growth, sabor sorvete de creme |
 | ½ colher de chá | Extrato de baunilha |
@@ -46,26 +46,27 @@
 | Ingrediente | Quantidade | kcal | Prot. (g) | Carb. (g) | Gord. (g) | Fibras (g) | Origem |
 |---|---|--:|--:|--:|--:|--:|---|
 | Manga Palmer | 150 g | 108 | 0,6 | 26,7 | 0,3 | 2,4 | Tabela |
-| Leite desnatado | 200 ml | 70 | 6,2 | 9,6 | 0,4 | 0 | Tabela |
+| Leite desnatado | 260 ml | 91 | 8,1 | 12,5 | 0,5 | 0 | Tabela |
 | Leite em pó desnatado | 2 colheres de sopa (~13 g) | 46 | 4,4 | 6,8 | 0,1 | 0 | Tabela |
 | Whey | 60 g | 250 | 46,0 | 7,6 | 4,0 | 0 | Rótulo |
 | Extrato de baunilha | ½ colher de chá | 6 | 0 | 0,3 | 0 | 0 | Tabela |
 | Goma xantana | ¼ de colher de chá | 1 | 0 | 0 | 0 | 0,7 | Estimado |
 | Sal | 1/16 de colher de chá | 0 | 0 | 0 | 0 | 0 | — |
-| **Total** | | **481** | **57,2** | **51,0** | **4,8** | **3,1** | |
+| **Total** | | **502** | **59,1** | **53,9** | **4,9** | **3,1** | |
 
 Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 
 ## Notas
 
 - O leite em pó foi **reduzido de 3 para 2 colheres de sopa**, para não exagerar nos sólidos junto com 60 g de whey.
-- A estimativa anterior (~465 kcal) usava um valor genérico de manga (~62 kcal por 100 g). Com o valor da TACO para a Palmer (~72 kcal), o total sobe para ~480 kcal.
+- A manga é calculada com o valor da TACO para a Palmer (~72 kcal por 100 g). Um valor genérico de manga (~62 kcal) subestimaria ~15 kcal por pote.
 
 ## Histórico
 
 | Versão | Data | Mudança |
 |---|---|---|
 | v1 | 2026-10-25 | Versão inicial no caderno. |
+| v2 | 2026-10-25 | Leite desnatado de 200 ml para 260 ml, para completar ~470 ml no pote. |
 
 ## Testes
 

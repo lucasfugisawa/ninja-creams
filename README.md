@@ -9,11 +9,11 @@ Valores **por pote**, estimados. A fonte da verdade é o arquivo de cada receita
 | Receita | kcal | Prot. | Carb. | Gord. | Fibras | Volume |
 |---|--:|--:|--:|--:|--:|--:|
 | [Banana com cacau](receitas/banana-cacau.md) | 620 | 57 g | 70 g | 11 g | 8 g | 465 ml |
-| [Figo com iogurte e limão-siciliano](receitas/figo-iogurte-limao.md) | 635 | 55 g | 79 g | 10 g | 6 g | 435 ml |
-| [Leite com manga](receitas/leite-com-manga.md) | 480 | 57 g | 51 g | 5 g | 3 g | 405 ml |
-| ↳ [Com leite integral](receitas/leite-com-manga--leite-integral.md) | 485 | 53 g | 44 g | 10 g | 3 g | 400 ml |
-| [Pêssego](receitas/pessego.md) | 400 | 51 g | 27 g | 9 g | 1 g | 400 ml |
-| ↳ [Pêssego com creme](receitas/pessego--com-creme.md) | 430 | 52 g | 27 g | 11 g | 1 g | 415 ml |
+| [Figo com iogurte e limão-siciliano](receitas/figo-iogurte-limao.md) | 655 | 56 g | 81 g | 11 g | 6 g | 470 ml |
+| [Leite com manga](receitas/leite-com-manga.md) | 500 | 59 g | 54 g | 5 g | 3 g | 465 ml |
+| ↳ [Com leite integral](receitas/leite-com-manga--leite-integral.md) | 525 | 55 g | 47 g | 12 g | 3 g | 465 ml |
+| [Pêssego](receitas/pessego.md) | 440 | 53 g | 30 g | 11 g | 1 g | 470 ml |
+| ↳ [Pêssego com creme](receitas/pessego--com-creme.md) | 460 | 54 g | 30 g | 13 g | 1 g | 470 ml |
 
 Carboidratos sem as fibras, como nos rótulos brasileiros. ↳ indica uma variação da receita acima.
 
