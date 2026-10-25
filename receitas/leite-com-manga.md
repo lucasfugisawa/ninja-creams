@@ -12,7 +12,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **~480 kcal** | **~57 g** | ~51 g | ~5 g | ~3 g | ~420 ml |
 
-> Estimativa, com margem de cerca de 5%. Whey conferido no rótulo; manga, leite e leite em pó com valores de tabela. Volume não medido.
+> Estimativa, com margem de cerca de 5%. Whey conferido no rótulo; manga, leite e leite em pó com valores de tabela. Volume da base estimado.
 
 ## Ingredientes
 

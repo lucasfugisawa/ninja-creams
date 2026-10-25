@@ -29,7 +29,7 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 
 **Origem:**
 
-- **Rótulo:** conferido no rótulo do produto usado (a data está na tabela de conferências do [README](../README.md)).
+- **Rótulo:** conferido no rótulo do produto usado (data e foto em [referencias/](../referencias/README.md)).
 - **Tabela:** valor típico de tabelas de composição (TACO, USDA) ou de rótulos genéricos. Não foi conferido no produto usado.
 - **Estimado:** inferido de produtos parecidos ou de informação parcial.
 

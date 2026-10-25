@@ -12,7 +12,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **~555 kcal** | **~57 g** | ~52 g | ~11 g | ~7 g | ~415 ml |
 
-> Estimativa, com margem de cerca de 5%. Whey e cacau conferidos no rótulo; banana e leite com valores de tabela. Volume não medido.
+> Estimativa, com margem de cerca de 5%. Whey e cacau conferidos no rótulo; banana e leite com valores de tabela. Volume da base estimado.
 
 ## Ingredientes
 

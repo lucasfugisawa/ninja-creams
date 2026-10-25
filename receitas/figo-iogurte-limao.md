@@ -12,7 +12,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **~630 kcal** | **~55 g** | ~78 g | ~10 g | ~6 g | ~430 ml |
 
-> Estimativa, com margem de cerca de 5%. Whey e figo conferidos no rótulo; leite e iogurte com valores de tabela. Volume não medido.
+> Estimativa, com margem de cerca de 5%. Whey e figo conferidos no rótulo; leite e iogurte com valores de tabela. Volume da base estimado.
 
 ## Ingredientes
 

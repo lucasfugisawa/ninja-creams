@@ -23,7 +23,8 @@ Para regras técnicas da máquina, a fonte prioritária é sempre a Ninja.
 - **Base** — a mistura completa que vai para o pote, é congelada e depois processada. Não existe uma "base Ninja" única: cada receita é uma base. **[Oficial Ninja]**
 - **Mix-in** — ingrediente adicionado **depois** do primeiro processamento. Abre-se um furo no centro do sorvete e usa-se o programa `MISTURE` / `MIX-IN`. **[Oficial Ninja]**
 - **Linha MAX** — o limite real de enchimento do pote, abaixo da borda, porque a água expande ao congelar. **Nunca passar dela.** **[Oficial Ninja]**
-  - O volume exato da linha no nosso pote **ainda não foi medido**. Estimamos que bases de 400–430 ml são seguras. **[Inferência]**
+  - No nosso pote, medido em 2026-10-25: **473 ml até a linha MAX** e 500 ml até a boca.
+  - Os volumes das receitas são estimados, e a espuma do whey ocupa espaço. Manter as bases em **até ~450 ml** deixa uma folga para isso. **[Inferência]**
 
 ## Programas
 

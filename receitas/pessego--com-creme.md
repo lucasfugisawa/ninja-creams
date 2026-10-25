@@ -14,7 +14,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **~430 kcal** | **~52 g** | ~27 g | ~11 g | ~1 g | ~425 ml |
 
-> Estimativa, com margem de cerca de 5%. Whey e pêssego conferidos no rótulo; leite com valor de tabela; cream cheese estimado. O rótulo do pêssego é da fruta com a calda, então a fruta drenada pode ter até ~12 kcal a mais. Volume não medido; confira a linha MAX com atenção, porque é ~15 ml a mais que a base.
+> Estimativa, com margem de cerca de 5%. Whey e pêssego conferidos no rótulo; leite com valor de tabela; cream cheese estimado. O rótulo do pêssego é da fruta com a calda, então a fruta drenada pode ter até ~12 kcal a mais. Volume da base estimado.
 
 ## Ingredientes
 

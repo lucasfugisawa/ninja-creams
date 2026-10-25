@@ -5,11 +5,14 @@ Este repositório é um **caderno de receitas em Markdown**, não um software. N
 ## Estrutura
 
 ```
-README.md       índice das receitas (resumo) + pendências
+README.md       índice das receitas (resumo)
 AGENTS.md       este arquivo
 guia/
   creami.md       regras da máquina, princípios e preparo padrão
   ingredientes.md tabela nutricional de referência, conversões, marcas, ingredientes técnicos
+referencias/
+  README.md       registro das conferências (só cresce) e padrão de nomes
+  rotulos/        fotos dos rótulos conferidos
 receitas/
   <receita>.md            uma receita por arquivo
   <base>--<variacao>.md   variação de uma receita
@@ -49,9 +52,9 @@ Use uma receita existente como modelo ao criar uma nova.
 - Quantidades sempre em **g, ml, colher de chá ou colher de sopa**. Nunca "um pouco de". Pitada de sal = **1/16 de colher de chá (~0,3 g)**.
 - Fruta em calda: sempre **peso drenado**, sem a calda.
 - Programa padrão: **`SORVETE LIGHT`** (bases com pouca gordura ou pouco açúcar).
-- O volume da base não pode passar da **linha MAX**. Enquanto ela não for medida, mantenha as bases em ~400–430 ml.
+- O volume da base não pode passar da **linha MAX: 473 ml** no nosso pote. Como os volumes são estimados e a espuma do whey ocupa espaço, mantenha as bases em até ~450 ml.
 - Separe sempre **orientação oficial da Ninja**, **prática de usuários** e **inferência**, usando as marcações de [guia/creami.md](guia/creami.md). A fonte prioritária para regras da máquina é a Ninja/SharkNinja.
-- Não invente informação técnica nem nutricional. Se não souber, marque como estimativa ou pendência.
+- Não invente informação técnica nem nutricional. Se não souber, marque como estimativa e avise o usuário.
 
 ## Como calcular a nutrição
 
@@ -59,7 +62,7 @@ Use uma receita existente como modelo ao criar uma nova.
 2. **Calorias** = soma das calorias dos ingredientes (não a conta 4/4/9 sobre os macros).
 3. **Carboidratos não incluem as fibras** (padrão dos rótulos brasileiros); as fibras têm coluna própria. Em valores de tabela (TACO), desconte a fibra do carboidrato. Polióis (eritritol) não são somados.
 4. **Ajustes na prova e mix-ins ficam fora do total.** Informe ao lado o acréscimo que eles causam.
-5. No **Detalhamento nutricional**, use números com uma casa decimal para os macros e inteiros para kcal. Na **Nutrição por pote** e no índice, arredonde para inteiros com `~`.
+5. No **Detalhamento nutricional**, use números com uma casa decimal para os macros e inteiros para kcal. Na **Nutrição por pote**, arredonde para inteiros com `~`. No índice do `README.md`, use inteiros sem `~`.
 6. **Origem** de cada linha: `Rótulo` (conferido no produto usado), `Tabela` (TACO, USDA ou rótulo genérico) ou `Estimado`.
 7. Uma pequena imprecisão é aceitável; uma grande não é. Depois de calcular, confira se a soma das linhas bate com o total.
 
@@ -67,11 +70,12 @@ Use uma receita existente como modelo ao criar uma nova.
 
 Por exemplo, ao conferir o rótulo do whey:
 
-1. Atualize a linha em `guia/ingredientes.md`, com a origem `Rótulo`.
-2. Encontre todas as receitas que usam o ingrediente.
-3. Recalcule o detalhamento, o total e a **Nutrição por pote** de cada uma.
-4. Atualize a citação de itens não conferidos e o índice do `README.md`.
-5. Remova a pendência do `README.md`, se houver, e registre a conferência na tabela **Conferências**, com a data.
+1. Salve a foto do rótulo em `referencias/rotulos/`, seguindo o padrão de nomes de [referencias/README.md](referencias/README.md).
+2. Acrescente uma linha no fim da tabela **Conferências** de `referencias/README.md`, com a data, o resultado e o link para a foto. Não apague nem reescreva linhas antigas.
+3. Atualize a linha em `guia/ingredientes.md`, com a origem `Rótulo`.
+4. Encontre todas as receitas que usam o ingrediente.
+5. Recalcule o detalhamento, o total e a **Nutrição por pote** de cada uma.
+6. Atualize a citação de itens não conferidos e o índice do `README.md`.
 
 Mudança de valor de referência **não muda a versão** da receita, porque a fórmula é a mesma.
 
@@ -98,7 +102,7 @@ Adicione ao final da seção **Testes** (e remova o texto "Nenhum teste registra
 - **Para a próxima:** …
 ```
 
-Depois do primeiro teste, mude o status para **Em teste** (na receita e no índice). **Aprovada** e **Descontinuada** só com a decisão explícita do usuário.
+Depois do primeiro teste, mude o status da receita para **Em teste**. **Aprovada** e **Descontinuada** só com a decisão explícita do usuário.
 
 Se o teste levar a uma mudança de fórmula, crie a nova versão (ou a variação) e registre no Histórico.
 
