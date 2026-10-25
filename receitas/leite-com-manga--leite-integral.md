@@ -12,7 +12,7 @@
 
 | Calorias | Proteína | Carboidratos | Gorduras | Fibras | Volume |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **~485 kcal** | **~53 g** | ~44 g | ~10 g | ~3 g | ~415 ml |
+| **~485 kcal** | **~53 g** | ~44 g | ~10 g | ~3 g | ~400 ml |
 
 > Estimativa, com margem de cerca de 5%. Whey conferido no rótulo; manga e leite com valores de tabela. Volume da base estimado.
 

@@ -24,7 +24,7 @@ Para regras técnicas da máquina, a fonte prioritária é sempre a Ninja.
 - **Mix-in** — ingrediente adicionado **depois** do primeiro processamento. Abre-se um furo no centro do sorvete e usa-se o programa `MISTURE` / `MIX-IN`. **[Oficial Ninja]**
 - **Linha MAX** — o limite real de enchimento do pote, abaixo da borda, porque a água expande ao congelar. **Nunca passar dela.** **[Oficial Ninja]**
   - No nosso pote, medido em 2026-10-25: **473 ml até a linha MAX** e 500 ml até a boca.
-  - Os volumes das receitas são estimados, e a espuma do whey ocupa espaço. Manter as bases em **até ~450 ml** deixa uma folga para isso. **[Inferência]**
+  - Preenchimento alvo: **~470 ml** (ver "Regras fixas").
 
 ## Programas
 
@@ -44,6 +44,8 @@ Para regras técnicas da máquina, a fonte prioritária é sempre a Ninja.
 - Preparo simples: sem fogão, tudo no liquidificador e depois congelado.
 - Calorias controladas, sem sacrificar demais o sabor.
 - Quantidades sempre em **g, ml, colher de chá ou colher de sopa**. Nunca "um pouco de". A "pitada" de sal é padronizada como **1/16 de colher de chá (~0,3 g)**.
+- **Preenchimento alvo: ~470 ml por pote**, logo abaixo da linha MAX (473 ml). No nosso preparo, o whey quase não faz espuma, então não é preciso deixar folga para ela.
+- **Estimativa de volume das receitas:** soma de 1 ml por grama de fruta, iogurte e cream cheese; volume dos líquidos; ~0,75 ml por grama de whey; ~0,7 ml por grama de pós (leite em pó, cacau). É uma aproximação: confira no primeiro preparo. **[Inferência]**
 
 ### Técnica
 

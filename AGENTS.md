@@ -50,7 +50,7 @@ Use uma receita existente como modelo ao criar uma nova.
 - Quantidades sempre em **g, ml, colher de chá ou colher de sopa**. Nunca "um pouco de". Pitada de sal = **1/16 de colher de chá (~0,3 g)**.
 - Fruta em calda: sempre **peso drenado**, sem a calda.
 - Programa padrão: **`SORVETE LIGHT`** (bases com pouca gordura ou pouco açúcar).
-- O volume da base não pode passar da **linha MAX: 473 ml** no nosso pote. Como os volumes são estimados e a espuma do whey ocupa espaço, mantenha as bases em até ~450 ml.
+- **Preenchimento alvo: ~470 ml**, nunca acima da **linha MAX (473 ml)**. O whey quase não faz espuma no nosso preparo. Estime o volume com o método de [guia/creami.md](guia/creami.md) ("Regras fixas") e mantenha a estimativa em até ~470 ml.
 - Separe sempre **orientação oficial da Ninja**, **prática de usuários** e **inferência**, usando as marcações de [guia/creami.md](guia/creami.md). A fonte prioritária para regras da máquina é a Ninja/SharkNinja.
 - Não invente informação técnica nem nutricional. Se não souber, marque como estimativa e avise o usuário.
 

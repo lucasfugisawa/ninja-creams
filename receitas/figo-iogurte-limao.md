@@ -4,13 +4,13 @@
 
 | Versão | Status | Programa | Variação de |
 |:---:|:---:|:---:|:---:|
-| v1 | Não testada | `SORVETE LIGHT` | — |
+| v2 | Não testada | `SORVETE LIGHT` | — |
 
 ## Nutrição por pote
 
 | Calorias | Proteína | Carboidratos | Gorduras | Fibras | Volume |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **~630 kcal** | **~55 g** | ~78 g | ~10 g | ~6 g | ~430 ml |
+| **~635 kcal** | **~55 g** | ~79 g | ~10 g | ~6 g | ~435 ml |
 
 > Estimativa, com margem de cerca de 5%. Whey e figo conferidos no rótulo; leite e iogurte com valores de tabela. Volume da base estimado.
 
@@ -18,7 +18,7 @@
 
 | Quantidade | Ingrediente |
 |---:|---|
-| 130 g | Figo em calda (Tozzi), drenado — pese só a fruta, sem a calda |
+| 133 g | Figo em calda (Tozzi), drenado — pese só a fruta, sem a calda |
 | 180 ml | Leite integral |
 | 70 g | Iogurte natural desnatado, sem açúcar |
 | 60 g | Whey Growth, sabor sorvete de creme |
@@ -49,7 +49,7 @@
 
 | Ingrediente | Quantidade | kcal | Prot. (g) | Carb. (g) | Gord. (g) | Fibras (g) | Origem |
 |---|---|--:|--:|--:|--:|--:|---|
-| Figo em calda, drenado | 130 g | 226 | 0 | 57,2 | 0 | 5,2 | Rótulo |
+| Figo em calda, drenado | 133 g | 231 | 0 | 58,5 | 0 | 5,3 | Rótulo |
 | Leite integral | 180 ml | 108 | 5,6 | 8,5 | 5,4 | 0 | Tabela |
 | Iogurte natural desnatado | 70 g | 33 | 3,2 | 4,2 | 0,2 | 0 | Tabela |
 | Whey | 60 g | 250 | 46,0 | 7,6 | 4,0 | 0 | Rótulo |
@@ -57,7 +57,7 @@
 | Raspas de limão-siciliano | ½ colher de chá | ~0 | 0 | 0 | 0 | 0 | — |
 | Goma xantana | ¼ de colher de chá | 1 | 0 | 0 | 0 | 0,7 | Estimado |
 | Sal | 1/16 de colher de chá | 0 | 0 | 0 | 0 | 0 | — |
-| **Total** | | **630** | **54,8** | **78,0** | **9,6** | **5,9** | |
+| **Total** | | **635** | **54,8** | **79,3** | **9,6** | **6,0** | |
 
 Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 
@@ -65,6 +65,7 @@ Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 
 - **Use só a parte amarela** da casca do limão: a parte branca amarga.
 - **Suco de limão foi evitado de propósito:** ácido junto com leite e whey pode talhar.
+- **133 g é ⅓ da lata** de 400 g drenados: uma lata rende 3 potes.
 - O iogurte entrou para dar volume com poucas calorias.
 - O figo responde por ~36% das calorias, quase tudo açúcar da calda absorvido pela fruta (o rótulo indica 34 g de açúcar adicionado a cada 100 g). Para reduzir calorias, a alavanca mais direta é trocar o leite integral pelo desnatado (~−45 kcal).
 
@@ -73,6 +74,7 @@ Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 | Versão | Data | Mudança |
 |---|---|---|
 | v1 | 2026-10-25 | Versão inicial no caderno. |
+| v2 | 2026-10-25 | Figo de 130 g para 133 g, para usar ⅓ da lata em cada pote. |
 
 ## Testes
 
