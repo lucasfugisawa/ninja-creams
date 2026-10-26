@@ -4,15 +4,15 @@
 
 | Versão | Status | Programa | Variação de |
 |:---:|:---:|:---:|:---:|
-| v2 | Não testada | `SORVETE LIGHT` | [Leite com manga](leite-com-manga.md) (v2) |
+| v3 | Não testada | `SORVETE LIGHT` | [Leite com manga](leite-com-manga.md) (v3) |
 
-**Diferença em relação à base:** 260 ml de leite desnatado + 2 colheres de sopa de leite em pó desnatado → 270 ml de leite integral.
+**Diferença em relação à base:** 275 ml de leite desnatado + 2 colheres de sopa de leite em pó desnatado + 45 g de whey → 275 ml de leite integral + 52 g de whey (o whey a mais repõe a proteína do leite em pó).
 
 ## Nutrição por pote
 
 | Calorias | Proteína | Carboidratos | Gorduras | Fibras | Volume |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **~525 kcal** | **~55 g** | ~47 g | ~12 g | ~3 g | ~465 ml |
+| **~495 kcal** | **~49 g** | ~47 g | ~12 g | ~3 g | ~465 ml |
 
 > Estimativa, com margem de cerca de 5%. Whey conferido no rótulo; manga e leite com valores de tabela. Volume da base estimado.
 
@@ -21,8 +21,8 @@
 | Quantidade | Ingrediente |
 |---:|---|
 | 150 g | Manga bem madura, de preferência Palmer (tem pouca fibra) |
-| 270 ml | Leite integral |
-| 60 g | Whey Growth, sabor sorvete de creme |
+| 275 ml | Leite integral |
+| 52 g | Whey Growth, sabor sorvete de creme |
 | ½ colher de chá | Extrato de baunilha |
 | ¼ de colher de chá | Goma xantana |
 | 1/16 de colher de chá | Sal (~0,3 g) |
@@ -45,18 +45,18 @@
 | Ingrediente | Quantidade | kcal | Prot. (g) | Carb. (g) | Gord. (g) | Fibras (g) | Origem |
 |---|---|--:|--:|--:|--:|--:|---|
 | Manga Palmer | 150 g | 108 | 0,6 | 26,7 | 0,3 | 2,4 | Tabela |
-| Leite integral | 270 ml | 162 | 8,4 | 12,7 | 8,1 | 0 | Tabela |
-| Whey | 60 g | 250 | 46,0 | 7,6 | 4,0 | 0 | Rótulo |
+| Leite integral | 275 ml | 165 | 8,5 | 12,9 | 8,3 | 0 | Tabela |
+| Whey | 52 g | 217 | 39,9 | 6,6 | 3,5 | 0 | Rótulo |
 | Extrato de baunilha | ½ colher de chá | 6 | 0 | 0,3 | 0 | 0 | Tabela |
 | Goma xantana | ¼ de colher de chá | 1 | 0 | 0 | 0 | 0,7 | Estimado |
 | Sal | 1/16 de colher de chá | 0 | 0 | 0 | 0 | 0 | — |
-| **Total** | | **527** | **55,0** | **47,3** | **12,4** | **3,1** | |
+| **Total** | | **497** | **49,0** | **46,5** | **12,1** | **3,1** | |
 
 Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 
 ## Notas
 
-- Comparada à base: ~25 kcal a mais, ~4 g a menos de proteína e ~7 g a mais de gordura.
+- Comparada à base: ~50 kcal a mais, proteína parecida e ~8 g a mais de gordura.
 
 ## Histórico
 
@@ -64,6 +64,7 @@ Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 |---|---|---|
 | v1 | 2026-10-25 | Versão inicial no caderno, derivada de Leite com manga v1. |
 | v2 | 2026-10-25 | Acompanha Leite com manga v2: leite integral de 200 ml para 270 ml, para completar ~470 ml no pote. |
+| v3 | 2026-10-26 | Whey de 60 g para 52 g, para ~48–50 g de proteína por pote; leite integral de 270 ml para 275 ml, para manter ~470 ml. |
 
 ## Testes
 

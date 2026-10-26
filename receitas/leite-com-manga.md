@@ -4,13 +4,13 @@
 
 | Versão | Status | Programa | Variação de |
 |:---:|:---:|:---:|:---:|
-| v2 | Não testada | `SORVETE LIGHT` | — |
+| v3 | Não testada | `SORVETE LIGHT` | — |
 
 ## Nutrição por pote
 
 | Calorias | Proteína | Carboidratos | Gorduras | Fibras | Volume |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **~500 kcal** | **~59 g** | ~54 g | ~5 g | ~3 g | ~465 ml |
+| **~445 kcal** | **~48 g** | ~53 g | ~4 g | ~3 g | ~470 ml |
 
 > Estimativa, com margem de cerca de 5%. Whey conferido no rótulo; manga, leite e leite em pó com valores de tabela. Volume da base estimado.
 
@@ -19,9 +19,9 @@
 | Quantidade | Ingrediente |
 |---:|---|
 | 150 g | Manga bem madura, de preferência Palmer (tem pouca fibra) |
-| 260 ml | Leite desnatado |
+| 275 ml | Leite desnatado |
 | 2 colheres de sopa | Leite em pó desnatado (~13 g) |
-| 60 g | Whey Growth, sabor sorvete de creme |
+| 45 g | Whey Growth, sabor sorvete de creme |
 | ½ colher de chá | Extrato de baunilha |
 | ¼ de colher de chá | Goma xantana |
 | 1/16 de colher de chá | Sal (~0,3 g) |
@@ -46,19 +46,20 @@
 | Ingrediente | Quantidade | kcal | Prot. (g) | Carb. (g) | Gord. (g) | Fibras (g) | Origem |
 |---|---|--:|--:|--:|--:|--:|---|
 | Manga Palmer | 150 g | 108 | 0,6 | 26,7 | 0,3 | 2,4 | Tabela |
-| Leite desnatado | 260 ml | 91 | 8,1 | 12,5 | 0,5 | 0 | Tabela |
+| Leite desnatado | 275 ml | 96 | 8,5 | 13,2 | 0,6 | 0 | Tabela |
 | Leite em pó desnatado | 2 colheres de sopa (~13 g) | 46 | 4,4 | 6,8 | 0,1 | 0 | Tabela |
-| Whey | 60 g | 250 | 46,0 | 7,6 | 4,0 | 0 | Rótulo |
+| Whey | 45 g | 188 | 34,5 | 5,7 | 3,0 | 0 | Rótulo |
 | Extrato de baunilha | ½ colher de chá | 6 | 0 | 0,3 | 0 | 0 | Tabela |
 | Goma xantana | ¼ de colher de chá | 1 | 0 | 0 | 0 | 0,7 | Estimado |
 | Sal | 1/16 de colher de chá | 0 | 0 | 0 | 0 | 0 | — |
-| **Total** | | **502** | **59,1** | **53,9** | **4,9** | **3,1** | |
+| **Total** | | **445** | **48,0** | **52,7** | **4,0** | **3,1** | |
 
 Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 
 ## Notas
 
-- O leite em pó foi **reduzido de 3 para 2 colheres de sopa**, para não exagerar nos sólidos junto com 60 g de whey.
+- O leite em pó foi **reduzido de 3 para 2 colheres de sopa**, para não exagerar nos sólidos junto com o whey.
+- Leva menos whey que as outras receitas porque o leite e o leite em pó já somam ~13 g de proteína.
 - A manga é calculada com o valor da TACO para a Palmer (~72 kcal por 100 g). Um valor genérico de manga (~62 kcal) subestimaria ~15 kcal por pote.
 
 ## Histórico
@@ -67,6 +68,7 @@ Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 |---|---|---|
 | v1 | 2026-10-25 | Versão inicial no caderno. |
 | v2 | 2026-10-25 | Leite desnatado de 200 ml para 260 ml, para completar ~470 ml no pote. |
+| v3 | 2026-10-26 | Whey de 60 g para 45 g, para ~48–50 g de proteína por pote; leite desnatado de 260 ml para 275 ml, para manter ~470 ml. |
 
 ## Testes
 

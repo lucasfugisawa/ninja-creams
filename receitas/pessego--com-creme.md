@@ -4,15 +4,15 @@
 
 | Versão | Status | Programa | Variação de |
 |:---:|:---:|:---:|:---:|
-| v2 | Não testada | `SORVETE LIGHT` | [Pêssego](pessego.md) (v2) |
+| v3 | Não testada | `SORVETE LIGHT` | [Pêssego](pessego.md) (v3) |
 
-**Diferença em relação à base:** + 1 colher de sopa (~15 g) de cream cheese light no liquidificador, e 15 ml a menos de leite (205 ml em vez de 220 ml) para caber no pote.
+**Diferença em relação à base:** + 1 colher de sopa (~15 g) de cream cheese light no liquidificador, e 15 ml a menos de leite (210 ml em vez de 225 ml) para caber no pote.
 
 ## Nutrição por pote
 
 | Calorias | Proteína | Carboidratos | Gorduras | Fibras | Volume |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **~460 kcal** | **~54 g** | ~30 g | ~13 g | ~1 g | ~470 ml |
+| **~445 kcal** | **~50 g** | ~30 g | ~12 g | ~1 g | ~470 ml |
 
 > Estimativa, com margem de cerca de 5%. Whey e pêssego conferidos no rótulo; leite com valor de tabela; cream cheese estimado. O rótulo do pêssego é da fruta com a calda, então a fruta drenada pode ter até ~12 kcal a mais. Volume da base estimado.
 
@@ -21,8 +21,8 @@
 | Quantidade | Ingrediente |
 |---:|---|
 | 200 g | Pêssego em calda zero adição de açúcar (Schramm), drenado — pese só a fruta |
-| 205 ml | Leite integral |
-| 60 g | Whey Growth, sabor sorvete de creme |
+| 210 ml | Leite integral |
+| 55 g | Whey Growth, sabor sorvete de creme |
 | 1 colher de sopa | Cream cheese light (~15 g) |
 | 1 colher de chá | Extrato de baunilha |
 | ¼ de colher de chá | Goma xantana |
@@ -51,13 +51,13 @@
 | Ingrediente | Quantidade | kcal | Prot. (g) | Carb. (g) | Gord. (g) | Fibras (g) | Origem |
 |---|---|--:|--:|--:|--:|--:|---|
 | Pêssego zero açúcar, drenado | 200 g | 46 | 0 | 11,4 | 0 | 0 | Rótulo |
-| Leite integral | 205 ml | 123 | 6,4 | 9,6 | 6,2 | 0 | Tabela |
-| Whey | 60 g | 250 | 46,0 | 7,6 | 4,0 | 0 | Rótulo |
+| Leite integral | 210 ml | 126 | 6,5 | 9,9 | 6,3 | 0 | Tabela |
+| Whey | 55 g | 229 | 42,2 | 7,0 | 3,7 | 0 | Rótulo |
 | Cream cheese light | 1 colher de sopa | 29 | 1,2 | 0,8 | 2,3 | 0 | Estimado |
 | Extrato de baunilha | 1 colher de chá | 12 | 0 | 0,5 | 0 | 0 | Tabela |
 | Goma xantana | ¼ de colher de chá | 1 | 0 | 0 | 0 | 0,7 | Estimado |
 | Sal | 1/16 de colher de chá | 0 | 0 | 0 | 0 | 0 | — |
-| **Total** | | **461** | **53,6** | **29,9** | **12,5** | **0,7** | |
+| **Total** | | **443** | **49,9** | **29,6** | **12,3** | **0,7** | |
 
 Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 
@@ -71,6 +71,7 @@ Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 |---|---|---|
 | v1 | 2026-10-25 | Versão inicial no caderno, derivada de Pêssego v1. |
 | v2 | 2026-10-25 | Acompanha Pêssego v2: leite de 150 ml para 205 ml, para completar ~470 ml no pote. |
+| v3 | 2026-10-26 | Acompanha Pêssego v3: whey de 60 g para 55 g e leite de 205 ml para 210 ml. |
 
 ## Testes
 

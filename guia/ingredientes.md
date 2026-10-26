@@ -78,7 +78,7 @@ Estabilizante que reduz os cristais de gelo e a textura farelenta.
 
 - A Ninja usa **¼ de colher de chá por pint** numa receita oficial de soft serve. **[Oficial Ninja]**
 - Faixa geral para sorvetes: **0,1–0,3% do peso**. **[Prática comum]**
-- Com 60 g de whey, o padrão do caderno é **¼ de colher de chá**.
+- Com 45–55 g de whey, o padrão do caderno é **¼ de colher de chá**.
 - **O whey Growth sorvete de creme já contém goma xantana**, em quantidade não informada. Os ¼ de colher de chá são adicionais. Se o sorvete ficar gomoso, a xantana adicionada é a primeira coisa a reduzir. **[Inferência]**
 - Entra **por último** no liquidificador, polvilhada com o aparelho ligado.
 - Em excesso deixa o sorvete gomoso e "babento".

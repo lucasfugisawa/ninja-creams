@@ -46,7 +46,7 @@ Use uma receita existente como modelo ao criar uma nova.
 
 ## Regras de conteúdo
 
-- **Toda receita é proteica**, com **60 g de whey por pote** como padrão. Não proponha receita sem whey: o uso é substituição de refeição.
+- **Toda receita é proteica**: meta de **~48–50 g de proteína por pote**. Ajuste a quantidade de whey conforme a proteína dos outros ingredientes (cada 1 g de whey ≈ 0,77 g de proteína) e, se o whey mudar, complete o volume com o líquido da receita. Não proponha receita sem whey: o uso é substituição de refeição.
 - Quantidades sempre em **g, ml, colher de chá ou colher de sopa**. Nunca "um pouco de". Pitada de sal = **1/16 de colher de chá (~0,3 g)**.
 - Fruta em calda: sempre **peso drenado**, sem a calda.
 - Programa padrão: **`SORVETE LIGHT`** (bases com pouca gordura ou pouco açúcar).

@@ -40,7 +40,7 @@ Para regras técnicas da máquina, a fonte prioritária é sempre a Ninja.
 
 ### Regras fixas (decisões nossas)
 
-- **Todas as receitas são proteicas**, porque o sorvete substitui uma refeição. Padrão atual: **60 g de whey por pote**.
+- **Todas as receitas são proteicas**, porque o sorvete substitui uma refeição. Meta: **~48–50 g de proteína por pote**. A quantidade de whey (hoje entre 45 e 55 g) é ajustada em cada receita, conforme a proteína dos outros ingredientes.
 - Preparo simples: sem fogão, tudo no liquidificador e depois congelado.
 - Calorias controladas, sem sacrificar demais o sabor.
 - Quantidades sempre em **g, ml, colher de chá ou colher de sopa**. Nunca "um pouco de". A "pitada" de sal é padronizada como **1/16 de colher de chá (~0,3 g)**.
@@ -51,7 +51,7 @@ Para regras técnicas da máquina, a fonte prioritária é sempre a Ninja.
 
 - **O whey de sabor já vem adoçado.** O eritritol costuma ser opcional: sempre provar a base antes de congelar. **[Prática de usuários]**
 - A base deve ficar **um pouco mais doce do que o desejado**, porque o frio reduz a percepção de doçura. **[Prática comum]**
-- **60 g de whey deixam a textura mais seca e farelenta.** Contar com `RE-SPIN` + leite. **[Prática de usuários]**
+- **Muito whey (~50–60 g por pote) deixa a textura mais seca e farelenta.** Contar com `RE-SPIN` + leite. **[Prática de usuários]**
 - **Bater o whey em velocidade baixa** e deixar a espuma assentar antes de encher o pote, porque a espuma ocupa volume. **[Prática de usuários]**
 - **Uma pitada pequena de sal** realça a doçura e o sabor da fruta. **[Prática comum]**
 - **Fruta em calda drenada:** contar só o peso da fruta, sem a calda.

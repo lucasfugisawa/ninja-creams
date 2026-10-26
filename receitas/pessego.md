@@ -4,13 +4,13 @@
 
 | Versão | Status | Programa | Variação de |
 |:---:|:---:|:---:|:---:|
-| v2 | Não testada | `SORVETE LIGHT` | — |
+| v3 | Não testada | `SORVETE LIGHT` | — |
 
 ## Nutrição por pote
 
 | Calorias | Proteína | Carboidratos | Gorduras | Fibras | Volume |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **~440 kcal** | **~53 g** | ~30 g | ~11 g | ~1 g | ~470 ml |
+| **~425 kcal** | **~49 g** | ~30 g | ~11 g | ~1 g | ~470 ml |
 
 > Estimativa, com margem de cerca de 5%. Whey e pêssego conferidos no rótulo; leite com valor de tabela. O rótulo do pêssego é da fruta com a calda, então a fruta drenada pode ter até ~12 kcal a mais. Volume da base estimado.
 
@@ -19,8 +19,8 @@
 | Quantidade | Ingrediente |
 |---:|---|
 | 200 g | Pêssego em calda zero adição de açúcar (Schramm), drenado — pese só a fruta |
-| 220 ml | Leite integral |
-| 60 g | Whey Growth, sabor sorvete de creme |
+| 225 ml | Leite integral |
+| 55 g | Whey Growth, sabor sorvete de creme |
 | 1 colher de chá | Extrato de baunilha |
 | ¼ de colher de chá | Goma xantana |
 | 1/16 de colher de chá | Sal (~0,3 g) |
@@ -50,12 +50,12 @@
 | Ingrediente | Quantidade | kcal | Prot. (g) | Carb. (g) | Gord. (g) | Fibras (g) | Origem |
 |---|---|--:|--:|--:|--:|--:|---|
 | Pêssego zero açúcar, drenado | 200 g | 46 | 0 | 11,4 | 0 | 0 | Rótulo |
-| Leite integral | 220 ml | 132 | 6,8 | 10,3 | 6,6 | 0 | Tabela |
-| Whey | 60 g | 250 | 46,0 | 7,6 | 4,0 | 0 | Rótulo |
+| Leite integral | 225 ml | 135 | 7,0 | 10,6 | 6,8 | 0 | Tabela |
+| Whey | 55 g | 229 | 42,2 | 7,0 | 3,7 | 0 | Rótulo |
 | Extrato de baunilha | 1 colher de chá | 12 | 0 | 0,5 | 0 | 0 | Tabela |
 | Goma xantana | ¼ de colher de chá | 1 | 0 | 0 | 0 | 0,7 | Estimado |
 | Sal | 1/16 de colher de chá | 0 | 0 | 0 | 0 | 0 | — |
-| **Total** | | **441** | **52,8** | **29,8** | **10,6** | **0,7** | |
+| **Total** | | **423** | **49,2** | **29,5** | **10,5** | **0,7** | |
 
 Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 
@@ -63,7 +63,8 @@ Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 
 - A fruta foi **aumentada de 150 g para 200 g**, porque com 150 g o sabor não aparecia.
 - O leite completa o pote até ~470 ml. Para reduzir calorias, troque o leite integral pelo desnatado (~−55 kcal).
-- O whey responde por ~57% das calorias desta receita.
+- O whey responde por ~54% das calorias desta receita.
+- Leva mais whey que o figo e a banana porque o pêssego não tem proteína.
 
 ## Histórico
 
@@ -71,6 +72,7 @@ Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 |---|---|---|
 | v1 | 2026-10-25 | Versão inicial no caderno. |
 | v2 | 2026-10-25 | Leite de 150 ml para 220 ml, para completar ~470 ml no pote. |
+| v3 | 2026-10-26 | Whey de 60 g para 55 g, para ~48–50 g de proteína por pote; leite de 220 ml para 225 ml, para manter ~470 ml. |
 
 ## Testes
 
