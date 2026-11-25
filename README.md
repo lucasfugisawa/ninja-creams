@@ -9,7 +9,9 @@ Valores **por pote**, estimados. A fonte da verdade é o arquivo de cada receita
 | Receita | kcal | Prot. | Carb. | Gord. | Fibras | Volume |
 |---|--:|--:|--:|--:|--:|--:|
 | [Banana com cacau](receitas/banana-cacau.md) | 585 | 50 g | 70 g | 10 g | 8 g | 470 ml |
+| [Figo com cream cheese](receitas/figo-cream-cheese.md) | 640 | 49 g | 80 g | 13 g | 6 g | 470 ml |
 | [Figo com iogurte e limão-siciliano](receitas/figo-iogurte-limao.md) | 620 | 49 g | 80 g | 10 g | 6 g | 470 ml |
+| [Limão-siciliano com manjericão](receitas/limao-siciliano-manjericao.md) | 400 | 49 g | 16 g | 15 g | 1 g | 470 ml |
 | [Manga](receitas/manga.md) | 495 | 49 g | 47 g | 12 g | 3 g | 465 ml |
 | [Manga com coco](receitas/manga-com-coco.md) | 600 | 49 g | 48 g | 24 g | 4 g | 465 ml |
 | [Pêssego](receitas/pessego.md) | 425 | 49 g | 30 g | 11 g | 1 g | 470 ml |

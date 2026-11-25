@@ -13,6 +13,7 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 | Leite desnatado | 100 ml | 35 | 3,1 | 4,8 | 0,2 | 0 | Tabela |
 | Leite em pó desnatado | 100 g | 350 | 34 | 52 | 0,9 | 0 | Tabela |
 | Iogurte natural desnatado, sem açúcar | 100 g | 47 | 4,5 | 6,0 | 0,3 | 0 | Tabela |
+| Iogurte natural integral, sem açúcar | 100 g | 51 | 4,1 | 1,9 | 3,0 | 0 | Tabela |
 | Figo em calda Tozzi, drenado | 100 g | 174 | 0 | 44 | 0 | 4 | Rótulo |
 | Banana nanica madura | 100 g | 92 | 1,4 | 21,9 | 0,1 | 1,9 | Tabela |
 | Pêssego em calda zero adição de açúcar Schramm | 100 g | 23 | 0 | 5,7 | 0 | 0 | Rótulo |
@@ -23,7 +24,12 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 | Extrato de baunilha | 1 colher de chá (~4 ml) | 12 | 0 | 0,5 | 0 | 0 | Tabela |
 | Goma xantana | ¼ de colher de chá (~0,7 g) | 1 | 0 | 0 | 0 | 0,7 | Estimado |
 | Cream cheese light | 1 colher de sopa (~15 g) | 29 | 1,2 | 0,8 | 2,3 | 0 | Estimado |
+| Cream cheese tradicional | 1 colher de sopa (~15 g) | 44 | 0,8 | 0,5 | 4,2 | 0 | Estimado |
+| Suco de limão-siciliano | 1 colher de sopa (15 ml) | 3 | 0 | 1,0 | 0 | 0 | Tabela |
+| Raspas de limão-siciliano | 2 colheres de chá (~4 g) | 2 | 0 | 0,2 | 0 | 0,4 | Tabela |
+| Manjericão fresco (folhas) | 10 g | 2 | 0,3 | 0,1 | 0,1 | 0,2 | Tabela |
 | Nozes | 10 g | 62 | 1,4 | 1,1 | 5,9 | 0,7 | Tabela |
+| Biscoito de maisena | 10 g (~2 biscoitos) | 44 | 0,8 | 7,3 | 1,2 | 0,2 | Tabela |
 | Eritritol | 1 colher de sopa (~12 g) | 0 | 0 | 12* | 0 | 0 | Tabela |
 | Sal, raspas de limão, canela, sucralose | nas quantidades usadas | ~0 | 0 | 0 | 0 | 0 | — |
 
@@ -48,6 +54,9 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 - **Cacau Dr. Oetker:** o rótulo indica **10 g por colher de sopa** (porção de 20 g = 2 colheres de sopa). A estimativa anterior era de ~6 g.
 - **Manga Palmer:** valor de tabela (TACO) para a variedade Palmer, ~72 kcal por 100 g. Um valor genérico de manga (~62 kcal) subestima ~15 kcal por pote.
 - **Leite de coco tradicional:** marca ainda não definida. Valor estimado a partir de base colaborativa (FatSecret, Sococo: ~194 kcal por 100 ml, ~93% das calorias vindas da gordura). Varia bastante entre marcas e entre as versões tradicional e light; conferir no rótulo do produto usado.
+- **Iogurte natural integral:** valor da TACO. Rótulos de mercado costumam mostrar mais carboidrato (~4–5 g por 100 g); conferir no rótulo do produto usado.
+- **Cream cheese (light e tradicional):** estimados a partir de produtos típicos (~190 e ~290 kcal por 100 g). Variam bastante entre marcas.
+- **Limão-siciliano e manjericão:** valores típicos da USDA. Nas quantidades usadas, quase não pesam nas calorias.
 - **Coco ralado sem açúcar:** valor típico de coco desidratado (USDA: ~660 kcal por 100 g). Coco ralado **adoçado** ou **úmido** tem valores bem diferentes; conferir no rótulo.
 
 ## Conversões de medidas caseiras
@@ -59,6 +68,8 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 | Eritritol | 1 colher de sopa | ~12 g |
 | Cream cheese | 1 colher de sopa | ~15 g |
 | Goma xantana | 1 colher de chá | ~2,8 g |
+| Raspas de limão-siciliano | 1 colher de chá | ~2 g (~1 limão) |
+| Manjericão fresco | 10 g | ~20 folhas grandes, sem talos |
 | Extrato de baunilha | 1 colher de chá | ~4 ml |
 | Sal ("pitada") | 1/16 de colher de chá | ~0,3 g |
 | Whey Growth | 1 dosador | ~15 g (rótulo: 30 g = 2 dosadores) |
