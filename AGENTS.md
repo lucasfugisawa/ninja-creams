@@ -18,7 +18,9 @@ receitas/
   <base>--<variacao>.md   variação de uma receita
 ```
 
-**Fonte da verdade:** o arquivo da receita. O índice do `README.md` é um resumo e pode ficar defasado; em caso de divergência, vale a receita, e o índice deve ser corrigido.
+**Fonte da verdade:** o arquivo da receita. O índice do `README.md` é um resumo; em caso de divergência, vale a receita, e o índice deve ser corrigido.
+
+**O índice acompanha toda mudança nas receitas, na mesma alteração:** receita criada (nova linha, em ordem alfabética), removida (linha removida), renomeada (nome e link atualizados) ou com nutrição ou volume alterados (valores atualizados). Ao final, cada arquivo em `receitas/` tem exatamente uma linha no índice, e cada linha aponta para um arquivo existente.
 
 ## Como buscar
 
@@ -125,7 +127,7 @@ Se o teste levar a uma mudança de fórmula, crie a nova versão (ou a variaçã
 - [ ] Citação de itens não conferidos atualizada
 - [ ] Histórico, se a fórmula mudou
 - [ ] Variações e links entre base e variação
-- [ ] Índice do `README.md`
+- [ ] Índice do `README.md`: linha criada, removida, renomeada ou com valores atualizados, conforme a mudança
 
 ## Git
 

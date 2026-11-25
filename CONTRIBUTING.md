@@ -26,8 +26,17 @@ O formato completo de cada receita (seções, tabelas e cálculo nutricional) es
 1. Crie `receitas/<nome-da-receita>.md`, em kebab-case e sem acentos.
 2. Preencha a coluna **Autor** com o seu @ do GitHub.
 3. Se usar um ingrediente que ainda não está em [guia/ingredientes.md](guia/ingredientes.md), acrescente-o na tabela de referência, com a origem do valor (rótulo, tabela TACO/USDA ou estimativa).
-4. Acrescente a receita ao índice do [README.md](README.md).
+4. Acrescente a receita ao índice do [README.md](README.md), em ordem alfabética.
 5. Abra um pull request.
+
+## Índice sempre consistente
+
+O índice do [README.md](README.md) precisa refletir exatamente o que existe em `receitas/`. Todo pull request que mexe em receitas atualiza o índice junto:
+
+- **receita nova:** acrescente a linha no índice;
+- **receita removida:** remova a linha;
+- **receita renomeada:** atualize o nome e o link;
+- **valores alterados** (calorias, macros ou volume): atualize a linha com os mesmos valores da receita.
 
 ## Testes
 
