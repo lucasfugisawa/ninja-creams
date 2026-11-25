@@ -33,8 +33,6 @@
 
 - Pêssego picado: +6 kcal a cada 25 g.
 
-**Variação:** [Pêssego com creme](pessego--com-creme.md), com 1 colher de sopa de cream cheese light.
-
 ## Preparo
 
 1. Bata no liquidificador o pêssego, o leite, a baunilha e o sal.

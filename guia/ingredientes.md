@@ -17,6 +17,8 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 | Banana nanica madura | 100 g | 92 | 1,4 | 21,9 | 0,1 | 1,9 | Tabela |
 | Pêssego em calda zero adição de açúcar Schramm | 100 g | 23 | 0 | 5,7 | 0 | 0 | Rótulo |
 | Manga Palmer | 100 g | 72 | 0,4 | 17,8 | 0,2 | 1,6 | Tabela |
+| Leite de coco tradicional | 100 ml | 190 | 1,2 | 2,2 | 19,5 | 0 | Estimado |
+| Coco ralado sem açúcar (desidratado) | 5 g | 33 | 0,3 | 0,4 | 3,2 | 0,8 | Tabela |
 | Cacau solúvel 100% Dr. Oetker | 100 g | 334 | 24 | 17 | 12 | 31 | Rótulo |
 | Extrato de baunilha | 1 colher de chá (~4 ml) | 12 | 0 | 0,5 | 0 | 0 | Tabela |
 | Goma xantana | ¼ de colher de chá (~0,7 g) | 1 | 0 | 0 | 0 | 0,7 | Estimado |
@@ -45,6 +47,8 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 - **Pêssego Schramm:** o rótulo é **da fruta com a calda** (porção de 140 g = 2½ metades + 2 colheres de sopa de calda). Como a calda zero açúcar tem poucas calorias, a fruta drenada deve ter um pouco mais: até ~29 kcal por 100 g, ou ~+12 kcal por 200 g. **[Inferência]** Usamos o valor do rótulo.
 - **Cacau Dr. Oetker:** o rótulo indica **10 g por colher de sopa** (porção de 20 g = 2 colheres de sopa). A estimativa anterior era de ~6 g.
 - **Manga Palmer:** valor de tabela (TACO) para a variedade Palmer, ~72 kcal por 100 g. Um valor genérico de manga (~62 kcal) subestima ~15 kcal por pote.
+- **Leite de coco tradicional:** marca ainda não definida. Valor estimado a partir de base colaborativa (FatSecret, Sococo: ~194 kcal por 100 ml, ~93% das calorias vindas da gordura). Varia bastante entre marcas e entre as versões tradicional e light; conferir no rótulo do produto usado.
+- **Coco ralado sem açúcar:** valor típico de coco desidratado (USDA: ~660 kcal por 100 g). Coco ralado **adoçado** ou **úmido** tem valores bem diferentes; conferir no rótulo.
 
 ## Conversões de medidas caseiras
 
@@ -67,6 +71,7 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 | Figo em calda | Tozzi, lata de 850 g (400 g drenado) | 2026-10-25 | [foto](rotulos/figo-em-calda-tozzi--2026-10-25.webp) |
 | Pêssego em calda zero adição de açúcar | Schramm (rótulo da fruta com a calda) | 2026-10-25 | [foto](rotulos/pessego-em-calda-zero-schramm--2026-10-25.jpg) |
 | Cacau solúvel 100% | Dr. Oetker (ingrediente único: cacau solúvel) | 2026-10-25 | [foto](rotulos/cacau-soluvel-dr-oetker--2026-10-25.jpg) |
+| Leite de coco tradicional | Vidro de 200 ml; marca a definir | — | — |
 | Goma xantana | 80 mesh, 100% pura | — | — |
 | Eritritol | Della Terra, 100% puro | — | — |
 

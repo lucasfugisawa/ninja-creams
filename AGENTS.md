@@ -35,7 +35,7 @@ Todas as receitas seguem o mesmo modelo, nesta ordem. Os nomes das seções e as
 2. **Tabela de identificação:** `Versão | Status | Programa | Variação de`.
 3. Numa variação: a linha **Diferença em relação à base**.
 4. **Nutrição por pote:** `Calorias | Proteína | Carboidratos | Gorduras | Fibras | Volume`, com valores arredondados e `~`, seguida de uma citação (`>`) com a margem e os itens ainda não conferidos.
-5. **Ingredientes:** tabela `Quantidade | Ingrediente`. Depois, se houver: **Ajuste na prova** e **Mix-in opcional**, ambos marcados "(fora do total)".
+5. **Ingredientes:** tabela `Quantidade | Ingrediente`. Depois, se houver: **Ajuste na prova**, **Mix-in opcional** e **Topping opcional**, todos marcados "(fora do total)".
 6. **Preparo:** passos numerados, completos (a receita deve servir impressa, sozinha).
 7. **Detalhamento nutricional:** uma linha por ingrediente, com as colunas `Ingrediente | Quantidade | kcal | Prot. (g) | Carb. (g) | Gord. (g) | Fibras (g) | Origem`, e a linha **Total**.
 8. **Notas:** decisões e cuidados específicos.
