@@ -1,0 +1,68 @@
+name: Nova receita
+description: Sugira uma receita para o caderno. Não precisa calcular a nutrição; isso é feito na revisão.
+title: "Nova receita: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por contribuir! Preencha o que souber; o resto é ajustado na revisão.
+        Use quantidades em g, ml, colher de chá ou colher de sopa (colheres medidoras rasas).
+  - type: input
+    id: nome
+    attributes:
+      label: Nome da receita
+      placeholder: "Ex.: Morango com iogurte"
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo
+      options:
+        - Sorvete
+        - Frozen yogurt
+        - Sorbet
+        - Gelato
+        - Milkshake
+        - Tigela de smoothie
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: ingredientes
+    attributes:
+      label: Ingredientes e quantidades
+      description: Um por linha. Se usar produtos de marca (whey, fruta em calda), informe a marca.
+      placeholder: |
+        200 g de morango
+        170 g de iogurte natural integral
+        45 g de whey (marca e sabor)
+        ¼ de colher de chá de goma xantana
+    validations:
+      required: true
+  - type: textarea
+    id: preparo
+    attributes:
+      label: Preparo
+      description: Passo a passo, incluindo o programa da CREAMi usado.
+    validations:
+      required: true
+  - type: dropdown
+    id: testada
+    attributes:
+      label: Você já testou esta receita?
+      options:
+        - Sim
+        - Não
+    validations:
+      required: true
+  - type: textarea
+    id: resultado
+    attributes:
+      label: Como ficou?
+      description: Se testou, conte a textura, o sabor, se precisou de RE-SPIN e o que ajustaria.
+  - type: textarea
+    id: fonte
+    attributes:
+      label: Fonte ou inspiração
+      description: Se a receita foi adaptada de algum lugar, informe o link ou a referência.

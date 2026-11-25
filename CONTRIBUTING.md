@@ -9,7 +9,7 @@ Obrigado pelo interesse! Este é um caderno de receitas para a Ninja CREAMi (pot
 Toda receita precisa ter:
 
 - **a nutrição completa por pote**: calorias, proteína, carboidratos, gorduras e fibras. A proteína aparece sempre, na receita e no índice;
-- quantidades em **g, ml, colher de chá ou colher de sopa**, nunca "um pouco de";
+- quantidades em **g, ml, colher de chá ou colher de sopa** (colheres medidoras padrão, sempre rasas), nunca "um pouco de";
 - volume de base que **não passe da linha MAX** do pote (473 ml); o ideal é encher até ~470 ml;
 - o **programa** da CREAMi indicado conforme a composição da receita (veja o [guia da CREAMi](guia/creami.md)).
 
@@ -19,15 +19,15 @@ O formato completo de cada receita (seções, tabelas e cálculo nutricional) es
 
 ## Como enviar
 
-**Não sabe ou não quer calcular a nutrição?** Abra uma issue com os ingredientes, as quantidades e o preparo. A receita é formatada e calculada na revisão.
+**Não sabe ou não quer calcular a nutrição?** Abra uma issue com o formulário **[Nova receita](https://github.com/lucasfugisawa/ninja-creams/issues/new?template=nova-receita.yml)**: ele pede os ingredientes, as quantidades e o preparo. A receita é formatada e calculada na revisão.
 
 **Quer enviar pronta?**
 
 1. Crie `receitas/<nome-da-receita>.md`, em kebab-case e sem acentos.
-2. Preencha a coluna **Autor** com o seu @ do GitHub.
+2. Preencha as colunas **Tipo** e **Autor** (com o seu @ do GitHub).
 3. Se usar um ingrediente que ainda não está em [guia/ingredientes.md](guia/ingredientes.md), acrescente-o na tabela de referência, com a origem do valor (rótulo, tabela TACO/USDA ou estimativa).
 4. Acrescente a receita ao índice do [README.md](README.md), em ordem alfabética.
-5. Abra um pull request.
+5. Abra um pull request e confira o checklist que aparece na descrição.
 
 ## Índice sempre consistente
 
@@ -40,7 +40,9 @@ O índice do [README.md](README.md) precisa refletir exatamente o que existe em 
 
 ## Testes
 
-Receitas não testadas são aceitas, com o status **Não testada**. Se você testou, registre o resultado na seção **Testes** da receita: textura, sabor, se precisou de `RE-SPIN` e o que ajustaria.
+Receitas não testadas são aceitas, com o status **Não testada**.
+
+Testou uma receita do caderno? Conte como ficou pelo formulário **[Resultado de teste](https://github.com/lucasfugisawa/ninja-creams/issues/new?template=resultado-de-teste.yml)**, ou registre direto na seção **Testes** da receita, no modelo do [AGENTS.md](AGENTS.md#como-registrar-um-teste). Informe quem testou (seu @) e o que você fez diferente da receita: marca do whey, tipo de leite, quantidades.
 
 ## Fotos de rótulos
 

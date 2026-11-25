@@ -2,9 +2,9 @@
 
 *Manga bem madura com leite integral e baunilha.*
 
-| Versão | Status | Programa | Variação de | Autor |
-|:---:|:---:|:---:|:---:|:---:|
-| v3 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
+| Tipo | Versão | Status | Programa | Variação de | Autor |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Sorvete | v3 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
 
 ## Nutrição por pote
 

@@ -2,7 +2,7 @@
 
 Conhecimento consolidado sobre a máquina e sobre as regras que valem para todas as receitas deste caderno.
 
-**Equipamento:** Ninja CREAMi com potes de **473 ml** (pint).
+**Equipamento:** as receitas foram pensadas para a Ninja CREAMi com potes de **473 ml** (pint) e os programas listados em [Programas](#programas). Em outro modelo, com pote de outro tamanho, ajuste todas as quantidades na mesma proporção do volume do pote e use o programa equivalente.
 
 ## Como ler as marcações
 
@@ -44,6 +44,7 @@ Valem para todas as receitas, de qualquer tipo:
 
 - **Nutrição sempre informada:** cada receita traz calorias, proteína, carboidratos, gorduras e fibras por pote, na receita e no índice.
 - Quantidades sempre em **g, ml, colher de chá ou colher de sopa**. Nunca "um pouco de". A "pitada" de sal é padronizada como **1/16 de colher de chá (~0,3 g)**.
+- **Colheres são colheres medidoras padrão, sempre rasas:** colher de chá = 5 ml; colher de sopa = 15 ml. Colheres de mesa variam muito. Quando a medida em colher for imprecisa para um ingrediente (como pós leves), a receita informa em gramas.
 - **Preenchimento alvo: ~470 ml por pote**, logo abaixo da linha MAX (473 ml). Se a base fizer muita espuma, deixe-a assentar antes de encher.
 - **Estimativa de volume das receitas:** soma de 1 ml por grama de fruta, iogurte e cream cheese; volume dos líquidos; ~0,75 ml por grama de whey; ~0,7 ml por grama de pós (leite em pó, cacau). É uma aproximação: confira no primeiro preparo. **[Inferência]**
 - O programa segue a composição da receita, conforme a orientação da Ninja (ver "Programas").

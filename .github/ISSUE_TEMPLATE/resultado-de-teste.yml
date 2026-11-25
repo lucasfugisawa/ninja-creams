@@ -1,0 +1,53 @@
+name: Resultado de teste
+description: Conte como ficou uma receita do caderno que você preparou.
+title: "Teste: "
+body:
+  - type: input
+    id: receita
+    attributes:
+      label: Receita
+      description: Nome ou link da receita testada.
+    validations:
+      required: true
+  - type: input
+    id: data
+    attributes:
+      label: Data do teste
+      placeholder: AAAA-MM-DD
+  - type: textarea
+    id: diferencas
+    attributes:
+      label: Diferenças em relação à receita
+      description: Marca do whey, tipo de leite, quantidades diferentes etc. Se seguiu à risca, escreva "nenhuma".
+    validations:
+      required: true
+  - type: input
+    id: programa
+    attributes:
+      label: Programa usado
+      placeholder: "Ex.: SORVETE LIGHT"
+  - type: input
+    id: respin
+    attributes:
+      label: Precisou de RE-SPIN?
+      placeholder: "Ex.: sim, 1×, com 2 colheres de sopa de leite"
+  - type: textarea
+    id: resultado
+    attributes:
+      label: Textura e sabor
+    validations:
+      required: true
+  - type: dropdown
+    id: nota
+    attributes:
+      label: Nota
+      options:
+        - "5"
+        - "4"
+        - "3"
+        - "2"
+        - "1"
+  - type: textarea
+    id: proxima
+    attributes:
+      label: O que você mudaria na próxima vez?

@@ -2,9 +2,9 @@
 
 *Banana madura com cacau 100% e baunilha. Sabor de "banana com chocolate", com o cacau equilibrando a doçura da fruta.*
 
-| Versão | Status | Programa | Variação de | Autor |
-|:---:|:---:|:---:|:---:|:---:|
-| v3 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
+| Tipo | Versão | Status | Programa | Variação de | Autor |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Sorvete | v3 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
 
 ## Nutrição por pote
 
@@ -21,7 +21,7 @@
 | 240 g | Banana madura |
 | 180 ml | Leite integral |
 | 50 g | Whey Growth, sabor sorvete de creme |
-| 1 colher de sopa | Cacau solúvel 100% (Dr. Oetker), ~10 g |
+| 10 g | Cacau solúvel 100% (Dr. Oetker) — ~2 colheres de sopa rasas |
 | 1 colher de chá | Extrato de baunilha |
 | ¼ de colher de chá | Goma xantana |
 | 1/16 de colher de chá | Sal (~0,3 g) |
@@ -47,7 +47,7 @@
 | Banana nanica madura | 240 g | 221 | 3,4 | 52,6 | 0,2 | 4,6 | Tabela |
 | Leite integral | 180 ml | 108 | 5,6 | 8,5 | 5,4 | 0 | Tabela |
 | Whey | 50 g | 208 | 38,3 | 6,3 | 3,3 | 0 | Rótulo |
-| Cacau solúvel 100% | 1 colher de sopa (~10 g) | 33 | 2,4 | 1,7 | 1,2 | 3,1 | Rótulo |
+| Cacau solúvel 100% | 10 g | 33 | 2,4 | 1,7 | 1,2 | 3,1 | Rótulo |
 | Extrato de baunilha | 1 colher de chá | 12 | 0 | 0,5 | 0 | 0 | Tabela |
 | Goma xantana | ¼ de colher de chá | 1 | 0 | 0 | 0 | 0,7 | Estimado |
 | Sal e canela | 1/16 de colher de chá cada | 0 | 0 | 0 | 0 | 0 | — |
@@ -60,7 +60,7 @@ Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 - **Banana é a principal fonte de cremosidade** desta receita: tem pouca água e bastante pectina. Com 240 g, o sabor de banana fica mais dominante sobre o cacau. **[Prática de usuários]**
 - O leite é limitado a 180 ml para a base caber em ~470 ml. Mais leite passa da linha MAX.
 - Quanto mais madura a banana, mais doce e menos necessário o eritritol.
-- O rótulo do cacau indica **10 g por colher de sopa**, mais do que os ~6 g estimados antes. Se o sabor de cacau ficar forte demais, use a colher rasa.
+- **Cacau em gramas:** o rótulo considera 1 colher de sopa = 10 g, mas uma colher medidora rasa deve ter só ~5–6 g de cacau. Pese 10 g (~2 colheres de sopa rasas). Se o sabor ficar forte demais, reduza para 5 g.
 
 ## Histórico
 

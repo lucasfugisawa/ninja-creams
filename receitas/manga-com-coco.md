@@ -2,9 +2,9 @@
 
 *Manga bem madura com leite de coco, para sentir com clareza os dois sabores. Coco ralado opcional por cima, na hora de servir.*
 
-| Versão | Status | Programa | Variação de | Autor |
-|:---:|:---:|:---:|:---:|:---:|
-| v1 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
+| Tipo | Versão | Status | Programa | Variação de | Autor |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Sorvete | v1 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
 
 ## Nutrição por pote
 

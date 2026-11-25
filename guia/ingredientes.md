@@ -11,8 +11,8 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 | Whey Growth, sabor sorvete de creme | 30 g | 125 | 23 | 3,8 | 2,0 | 0 | Rótulo |
 | Leite integral | 100 ml | 60 | 3,1 | 4,7 | 3,0 | 0 | Tabela |
 | Leite desnatado | 100 ml | 35 | 3,1 | 4,8 | 0,2 | 0 | Tabela |
-| Leite em pó desnatado | 100 g | 350 | 34 | 52 | 0,9 | 0 | Tabela |
-| Iogurte natural desnatado, sem açúcar | 100 g | 47 | 4,5 | 6,0 | 0,3 | 0 | Tabela |
+| Leite em pó desnatado | 100 g | 362 | 34,7 | 53,0 | 0,9 | 0 | Tabela |
+| Iogurte natural desnatado, sem açúcar | 100 g | 41 | 3,8 | 5,8 | 0,3 | 0 | Tabela |
 | Iogurte natural integral, sem açúcar | 100 g | 51 | 4,1 | 1,9 | 3,0 | 0 | Tabela |
 | Figo em calda Tozzi, drenado | 100 g | 174 | 0 | 44 | 0 | 4 | Rótulo |
 | Banana nanica madura | 100 g | 92 | 1,4 | 21,9 | 0,1 | 1,9 | Tabela |
@@ -38,7 +38,7 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 **Origem:**
 
 - **Rótulo:** conferido no rótulo do produto usado (data e foto em [Ingredientes de marca](#ingredientes-de-marca)).
-- **Tabela:** valor típico de tabelas de composição (TACO, USDA) ou de rótulos genéricos. Não foi conferido no produto usado.
+- **Tabela:** valor de tabela de composição (TACO, USDA) ou de rótulos genéricos. Não foi conferido no produto usado. As fontes de cada valor estão em [Fontes dos valores de tabela](#fontes-dos-valores-de-tabela).
 - **Estimado:** inferido de produtos parecidos ou de informação parcial.
 
 **Convenções:**
@@ -51,7 +51,7 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 - **Whey:** rótulo do site da Growth para o sabor sorvete de creme. Os ingredientes incluem **sucralose** (por isso já vem adoçado) e **goma xantana** (quantidade não informada).
 - **Figo Tozzi:** rótulo da lata de 850 g (400 g drenado). A porção do rótulo é de 140 g (5 unidades), ou seja, fruta sem calda.
 - **Pêssego Schramm:** o rótulo é **da fruta com a calda** (porção de 140 g = 2½ metades + 2 colheres de sopa de calda). Como a calda zero açúcar tem poucas calorias, a fruta drenada deve ter um pouco mais: até ~29 kcal por 100 g, ou ~+12 kcal por 200 g. **[Inferência]** Usamos o valor do rótulo.
-- **Cacau Dr. Oetker:** o rótulo indica **10 g por colher de sopa** (porção de 20 g = 2 colheres de sopa). A estimativa anterior era de ~6 g.
+- **Cacau Dr. Oetker:** o rótulo indica **10 g por colher de sopa** (porção de 20 g = 2 colheres de sopa), o que deve corresponder a uma colher cheia. Com colher medidora rasa, são ~5–6 g **[Inferência]**; por isso as receitas informam o cacau em gramas.
 - **Manga Palmer:** valor de tabela (TACO) para a variedade Palmer, ~72 kcal por 100 g. Um valor genérico de manga (~62 kcal) subestima ~15 kcal por pote.
 - **Leite de coco tradicional:** marca ainda não definida. Valor estimado a partir de base colaborativa (FatSecret, Sococo: ~194 kcal por 100 ml, ~93% das calorias vindas da gordura). Varia bastante entre marcas e entre as versões tradicional e light; conferir no rótulo do produto usado.
 - **Iogurte natural integral:** valor da TACO. Rótulos de mercado costumam mostrar mais carboidrato (~4–5 g por 100 g); conferir no rótulo do produto usado.
@@ -59,12 +59,33 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 - **Limão-siciliano e manjericão:** valores típicos da USDA. Nas quantidades usadas, quase não pesam nas calorias.
 - **Coco ralado sem açúcar:** valor típico de coco desidratado (USDA: ~660 kcal por 100 g). Coco ralado **adoçado** ou **úmido** tem valores bem diferentes; conferir no rótulo.
 
+### Fontes dos valores de tabela
+
+Conferidos em 2026-11-25. Na TACO, a fibra foi descontada do carboidrato.
+
+| Ingrediente | Fonte |
+|---|---|
+| Iogurte natural integral | TACO, 4ª ed., "Iogurte, natural" (nº 448) |
+| Iogurte natural desnatado | TACO, 4ª ed., "Iogurte, natural, desnatado" (nº 449) |
+| Leite em pó desnatado | TACO, 4ª ed., "Leite, de vaca, desnatado, pó" (nº 456) |
+| Banana nanica | TACO, 4ª ed., "Banana, nanica, crua" (nº 179) |
+| Manga Palmer | TACO, 4ª ed., "Manga, Palmer, crua" (nº 229) |
+| Nozes | TACO, 4ª ed., "Noz, crua" (nº 597) |
+| Biscoito de maisena | TACO, 4ª ed., "Biscoito, doce, maisena" (nº 8) |
+| Extrato de baunilha | USDA FoodData Central, "Vanilla extract" (FDC 173471) |
+| Coco ralado sem açúcar | USDA FoodData Central, "Nuts, coconut meat, dried (desiccated), not sweetened" (FDC 170170) |
+| Suco de limão-siciliano | USDA FoodData Central, "Lemon juice, raw" (FDC 167747) |
+| Raspas de limão-siciliano | USDA FoodData Central, "Lemon peel, raw" (FDC 167749) |
+| Manjericão fresco | USDA FoodData Central, "Basil, fresh" (FDC 172232) |
+| Leite integral e desnatado | Rótulos típicos de leite UHT brasileiro. A TACO não traz valores para leite fluido; a USDA dá ~61 kcal por 100 g para o integral (3,25% de gordura), coerente com o valor usado |
+| Eritritol | Poliol de ~0 kcal |
+
 ## Conversões de medidas caseiras
 
 | Ingrediente | Medida | Peso aproximado |
 |---|---|---|
 | Leite em pó desnatado | 1 colher de sopa | ~6,5 g |
-| Cacau solúvel Dr. Oetker | 1 colher de sopa | ~10 g (rótulo) |
+| Cacau em pó | 1 colher de sopa rasa | ~5–6 g (estimado). O rótulo da Dr. Oetker considera 10 g por colher, provavelmente cheia |
 | Eritritol | 1 colher de sopa | ~12 g |
 | Cream cheese | 1 colher de sopa | ~15 g |
 | Goma xantana | 1 colher de chá | ~2,8 g |
@@ -85,6 +106,16 @@ Valores de referência usados nos cálculos nutricionais, ingredientes de marca 
 | Leite de coco tradicional | Vidro de 200 ml; marca a definir | — | — |
 | Goma xantana | 80 mesh, 100% pura | — | — |
 | Eritritol | Della Terra, 100% puro | — | — |
+
+## Usando outro whey
+
+As receitas proteicas foram calculadas com o **whey Growth, sabor sorvete de creme**: 23 g de proteína a cada 30 g (~0,77 g de proteína por grama), já adoçado com sucralose e já com goma xantana. Com outro whey, o resultado muda. Para adaptar:
+
+1. **Proteína:** veja no rótulo do seu whey quantos gramas de proteína há por grama de pó (proteína da porção ÷ peso da porção). A nova quantidade é **quantidade da receita × 0,77 ÷ proteína por grama do seu whey**. Exemplo: um whey com 27 g de proteína a cada 30 g (0,9 g/g) numa receita com 50 g dá 50 × 0,77 ÷ 0,9 ≈ 43 g.
+2. **Volume:** se a quantidade mudar mais de ~5 g, compense com o líquido da receita (~0,75 ml de líquido para cada grama de whey a menos ou a mais) para manter ~470 ml.
+3. **Doçura e sabor:** whey sem sabor não vem adoçado. Prove a base e adoce com sucralose ou eritritol; considere 1 colher de chá de extrato de baunilha. Whey de outros sabores (chocolate, morango) muda o perfil da receita.
+4. **Textura:** se o seu whey não tiver goma xantana na composição, mantenha ¼ de colher de chá de xantana; se o sorvete sair farelento mesmo com `RE-SPIN`, experimente ⅜ de colher de chá. **[Inferência]**
+5. **Nutrição:** recalcule as calorias e os macros com o rótulo do seu whey.
 
 ## Ingredientes técnicos
 

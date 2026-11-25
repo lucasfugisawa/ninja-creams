@@ -2,15 +2,15 @@
 
 *Figo em calda com iogurte e baunilha, com um toque cítrico de raspas de limão-siciliano. O figo funciona como fruta e adoçante ao mesmo tempo.*
 
-| Versão | Status | Programa | Variação de | Autor |
-|:---:|:---:|:---:|:---:|:---:|
-| v4 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
+| Tipo | Versão | Status | Programa | Variação de | Autor |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Sorvete | v4 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
 
 ## Nutrição por pote
 
 | Calorias | Proteína | Carboidratos | Gorduras | Fibras | Volume |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **~620 kcal** | **~49 g** | ~80 g | ~10 g | ~6 g | ~470 ml |
+| **~615 kcal** | **~48 g** | ~80 g | ~10 g | ~6 g | ~470 ml |
 
 > Estimativa, com margem de cerca de 5%. Whey e figo conferidos no rótulo; leite e iogurte com valores de tabela. Volume da base estimado.
 
@@ -51,13 +51,13 @@
 |---|---|--:|--:|--:|--:|--:|---|
 | Figo em calda, drenado | 133 g | 231 | 0 | 58,5 | 0 | 5,3 | Rótulo |
 | Leite integral | 225 ml | 135 | 7,0 | 10,6 | 6,8 | 0 | Tabela |
-| Iogurte natural desnatado | 70 g | 33 | 3,2 | 4,2 | 0,2 | 0 | Tabela |
+| Iogurte natural desnatado | 70 g | 29 | 2,7 | 4,1 | 0,2 | 0 | Tabela |
 | Whey | 50 g | 208 | 38,3 | 6,3 | 3,3 | 0 | Rótulo |
 | Extrato de baunilha | 1 colher de chá | 12 | 0 | 0,5 | 0 | 0 | Tabela |
 | Raspas de limão-siciliano | ½ colher de chá | ~0 | 0 | 0 | 0 | 0 | — |
 | Goma xantana | ¼ de colher de chá | 1 | 0 | 0 | 0 | 0,7 | Estimado |
 | Sal | 1/16 de colher de chá | 0 | 0 | 0 | 0 | 0 | — |
-| **Total** | | **620** | **48,5** | **80,1** | **10,3** | **6,0** | |
+| **Total** | | **616** | **48,0** | **80,0** | **10,3** | **6,0** | |
 
 Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 
