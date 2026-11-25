@@ -2,9 +2,9 @@
 
 *Manga bem madura com leite de coco, para sentir com clareza os dois sabores. Coco ralado opcional por cima, na hora de servir.*
 
-| Versão | Status | Programa | Variação de |
-|:---:|:---:|:---:|:---:|
-| v1 | Não testada | `SORVETE LIGHT` | — |
+| Versão | Status | Programa | Variação de | Autor |
+|:---:|:---:|:---:|:---:|:---:|
+| v1 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
 
 ## Nutrição por pote
 
@@ -60,7 +60,7 @@ Valores de referência em [guia/ingredientes.md](../guia/ingredientes.md).
 ## Notas
 
 - **Inspiração:** as receitas oficiais da SharkNinja de manga com coco levam só manga e leite de coco sem açúcar, com o leite de coco como único líquido. Aqui o leite desnatado completa o pote e traz proteína. **[Oficial Ninja]** para a combinação; o resto é adaptação nossa.
-- **100 ml de leite de coco** é metade do vidro de 200 ml: um vidro rende 2 potes. A primeira proposta tinha 80 ml, mas o usuário já tinha feito antes com pouco leite de coco e o sabor ficou fraco.
+- **100 ml de leite de coco** é metade do vidro de 200 ml: um vidro rende 2 potes. Com menos leite de coco (80 ml), o sabor de coco tende a ficar fraco.
 - **Leite de coco tradicional, e não light:** o light é basicamente o tradicional diluído, então dá menos sabor de coco por caloria. **[Inferência]**
 - **Sem extrato de baunilha, de propósito:** o whey de sorvete de creme já traz essa nota, e mais baunilha competiria com o coco.
 - **Leite desnatado, e não integral:** o coco já dá a gordura e a cremosidade; uma segunda gordura abafaria o sabor de coco. **[Inferência]**

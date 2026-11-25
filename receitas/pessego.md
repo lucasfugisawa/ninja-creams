@@ -1,10 +1,10 @@
 # Pêssego
 
-*Pêssego em calda zero açúcar com baunilha. A receita mais leve do caderno.*
+*Pêssego em calda zero açúcar com baunilha. Uma das receitas mais leves do caderno.*
 
-| Versão | Status | Programa | Variação de |
-|:---:|:---:|:---:|:---:|
-| v3 | Não testada | `SORVETE LIGHT` | — |
+| Versão | Status | Programa | Variação de | Autor |
+|:---:|:---:|:---:|:---:|:---:|
+| v3 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
 
 ## Nutrição por pote
 

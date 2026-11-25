@@ -1,6 +1,8 @@
-# Caderno de sorvetes proteicos — Ninja CREAMi
+# Caderno de receitas — Ninja CREAMi
 
-Receitas de sorvete proteico para a Ninja CREAMi (pote de 473 ml), feitas para **substituir refeições**: todas levam whey, na quantidade que dá **~48–50 g de proteína por pote**, são preparadas no liquidificador, sem fogão, e processadas em `SORVETE LIGHT`.
+Receitas para a Ninja CREAMi (pote de 473 ml): sorvetes, sorbets, gelatos e afins. Toda receita traz a estimativa de **calorias, proteína, carboidratos, gorduras e fibras por pote**, para facilitar a escolha. Várias são proteicas, feitas com whey.
+
+> As informações nutricionais são **estimativas** e não substituem a orientação de um nutricionista ou médico.
 
 ## Índice
 
@@ -20,9 +22,17 @@ Carboidratos sem as fibras, como nos rótulos brasileiros.
 
 ## Guias
 
-- [Guia da Ninja CREAMi](guia/creami.md): terminologia, programas, linha MAX, princípios e preparo padrão.
+- [Guia da Ninja CREAMi](guia/creami.md): terminologia, programas, linha MAX, regras do caderno e preparo típico.
 - [Guia de ingredientes](guia/ingredientes.md): tabela nutricional de referência, conversões de medidas, marcas com os rótulos conferidos e ingredientes técnicos.
+
+## Como contribuir
+
+Quer enviar uma receita, uma correção ou o resultado de um teste? Veja o [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Para agentes
 
 As regras de busca e manutenção deste caderno estão em [AGENTS.md](AGENTS.md).
+
+## Licença
+
+Receitas e textos sob a licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br): você pode usar e adaptar, desde que cite a fonte. As fotos de rótulos em `guia/rotulos/` não estão incluídas na licença. Detalhes em [LICENSE](LICENSE).

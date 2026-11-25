@@ -1,10 +1,10 @@
 # Figo com iogurte e limão-siciliano
 
-*Figo em calda com iogurte e baunilha, com um toque cítrico de raspas de limão-siciliano. A receita mais calórica do caderno: o figo funciona como fruta e adoçante ao mesmo tempo.*
+*Figo em calda com iogurte e baunilha, com um toque cítrico de raspas de limão-siciliano. O figo funciona como fruta e adoçante ao mesmo tempo.*
 
-| Versão | Status | Programa | Variação de |
-|:---:|:---:|:---:|:---:|
-| v4 | Não testada | `SORVETE LIGHT` | — |
+| Versão | Status | Programa | Variação de | Autor |
+|:---:|:---:|:---:|:---:|:---:|
+| v4 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
 
 ## Nutrição por pote
 

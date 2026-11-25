@@ -2,9 +2,9 @@
 
 *Banana madura com cacau 100% e baunilha. Sabor de "banana com chocolate", com o cacau equilibrando a doçura da fruta.*
 
-| Versão | Status | Programa | Variação de |
-|:---:|:---:|:---:|:---:|
-| v3 | Não testada | `SORVETE LIGHT` | — |
+| Versão | Status | Programa | Variação de | Autor |
+|:---:|:---:|:---:|:---:|:---:|
+| v3 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
 
 ## Nutrição por pote
 

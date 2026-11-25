@@ -2,9 +2,9 @@
 
 *Figo em calda com cream cheese e baunilha, na linha de um cheesecake de figo. O cream cheese traz a acidez e a cremosidade.*
 
-| Versão | Status | Programa | Variação de |
-|:---:|:---:|:---:|:---:|
-| v1 | Não testada | `SORVETE LIGHT` | — |
+| Versão | Status | Programa | Variação de | Autor |
+|:---:|:---:|:---:|:---:|:---:|
+| v1 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
 
 ## Nutrição por pote
 

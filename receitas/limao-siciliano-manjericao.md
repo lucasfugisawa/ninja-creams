@@ -2,9 +2,9 @@
 
 *Frozen yogurt de limão-siciliano com manjericão fresco. O limão vem principalmente das raspas; o iogurte e o whey dão o corpo que a fruta não daria.*
 
-| Versão | Status | Programa | Variação de |
-|:---:|:---:|:---:|:---:|
-| v1 | Não testada | `SORVETE LIGHT` | — |
+| Versão | Status | Programa | Variação de | Autor |
+|:---:|:---:|:---:|:---:|:---:|
+| v1 | Não testada | `SORVETE LIGHT` | — | [@lucasfugisawa](https://github.com/lucasfugisawa) |
 
 ## Nutrição por pote
 
